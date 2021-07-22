@@ -14,7 +14,7 @@ const HomeView: React.FC = ({}) => {
                 <NavBar />
             </Grid>
             <Grid item>
-                <Typography>Acoer Typescript Boilerplate</Typography>
+                <Typography></Typography>
             </Grid>
         </Grid>
     );

@@ -14,6 +14,7 @@
         "@types/react": "^16.9.53",
         "@types/react-dom": "^16.9.8",
         "axios": "^0.21.1",
+        "bootstrap": "^5.0.2",
         "history": "^4.10.1",
         "moment": "^2.29.1",
         "react": "^17.0.1",
@@ -22,6 +23,9 @@
         "react-responsive-embed": "^2.1.0",
         "react-router-dom": "^5.2.0",
         "react-scripts": "4.0.1",
+        "react-signature-canvas": "^1.0.3",
+        "react-signature-pad": "^0.0.6",
+        "reactjs-popup": "^2.0.5",
         "redux": "^4.0.5",
         "redux-debounced": "^0.5.0",
         "redux-thunk": "^2.3.0",
@@ -33,7 +37,7 @@
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
-        "lint": "eslint '*/**/*.{js,ts,tsx}' --quiet --fix"
+        "lint": "eslint \"**/*.{js,ts,tsx}\" --fix"
     },
     "eslintConfig": {
         "extends": [
